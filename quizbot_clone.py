@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+load_dotenv()
 import logging
 import sqlite3
 import asyncio
